@@ -1,1 +1,1 @@
-"# MagicalMaze" 
+The Magical Maze is a C++ program that uses a binary tree structure to play a game in which you traverse a maze and attempt to reach the end without losing all your gold. The tree is set up so all the final leaf nodes are a wizard AKA you will always escape the maze when you reach the end of the tree. The tree is built using information from a .txt file which is passed as an argument. 
